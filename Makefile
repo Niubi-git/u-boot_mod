@@ -267,6 +267,7 @@ d-link_dir-505:
 dragino_v2_ms14:
 	@$(call build,192,1,DEVICE_VENDOR=dragino)
 
+GB_PR1\
 engenius_ens202ext \
 p2w_cpe505n \
 p2w_r602n \
